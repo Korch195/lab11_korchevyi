@@ -3,8 +3,6 @@ package ua.edu.ucu.app.task1;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
 
-import java.util.List;
-
 @SuperBuilder
 @ToString
 @Getter
